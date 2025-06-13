@@ -1,5 +1,5 @@
 import React from 'react';
-import { ButtonProps } from '../../interface';
+import { ButtonProps } from '../../interface/index.tsx';
 
 const Button = ({ buttonLabel, buttonSize, buttonBackgroundColor, action }: ButtonProps) => {
 

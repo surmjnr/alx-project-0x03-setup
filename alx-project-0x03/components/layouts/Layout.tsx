@@ -1,5 +1,5 @@
 import React from "react";
-import { LayoutProps } from '../../interface';
+import { LayoutProps } from '../../interface/index.tsx';
 import Footer from "./Footer";
 import Header from "./Header";
 
